@@ -375,10 +375,6 @@ header {
         }
     }
 }
-
-/* ========================================
-   SESSÃO 4: ALERTAS IMPORTANTES
-   ======================================== */
 .sessao-alertas {
     background: $cor-branca;
     padding: $spacing-3xl $spacing-xl;
@@ -460,10 +456,6 @@ header {
         }
     }
 }
-
-/* ========================================
-   FOOTER
-   ======================================== */
 .footer {
     background: $cor-escura;
     color: $cor-branca;
@@ -529,10 +521,6 @@ header {
         }
     }
 }
-
-/* ========================================
-   RESPONSIVIDADE
-   ======================================== */
 @media (max-width: $breakpoint-tablet) {
     .header {
         .header-nav {
